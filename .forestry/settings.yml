@@ -11,7 +11,7 @@ sections:
   - settings
 - type: directory
   path: portfolio/works
-  label: Works
+  label: Work
   create: all
   match: "**/*"
   templates:
